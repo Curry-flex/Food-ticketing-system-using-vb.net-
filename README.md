@@ -7,6 +7,7 @@ Cashier involve in processing bills
 Requreiments
 
 Visual studio
+
 sql server
 
 admin username curry password 1234 cashier username: shay password 1234
